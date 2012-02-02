@@ -1,0 +1,49 @@
+if(gContext==1100001)then
+ Hero:ActFun(1096,"1",1)
+elseif(gContext==1100002)then
+ Hero:ActFun(1096,"2",1)
+elseif(gContext==1100003)then
+ Hero:ActFun(1096,"4",1)
+elseif(gContext==1100004)then
+ Hero:ActFun(1096,"8",1)
+elseif(gContext==1100005)then
+ Hero:ActFun(1096,"16",1)
+elseif(gContext==1100006)then
+ Hero:ActFun(1096,"32",1)
+elseif(gContext==1100011)then
+ Hero:ActFun(1096,"64",1)
+elseif(gContext==1100012)then
+ Hero:ActFun(1096,"128",1)
+elseif(gContext==1100013)then
+ Hero:ActFun(1096,"256",1)
+elseif(gContext==1100014)then
+ Hero:ActFun(1096,"512",1)
+elseif(gContext==1100015)then
+ Hero:ActFun(1096,"1024",1)
+elseif(gContext==1100016)then
+ Hero:ActFun(1096,"2048",1)
+elseif(gContext==1200001)then
+ Hero:ActFun(1096,"1",2)
+elseif(gContext==1200002)then
+ Hero:ActFun(1096,"2",2)
+elseif(gContext==1200003)then
+ Hero:ActFun(1096,"4",2)
+elseif(gContext==1200004)then
+ Hero:ActFun(1096,"8",2)
+elseif(gContext==1200005)then
+ Hero:ActFun(1096,"16",2)
+elseif(gContext==1200006)then
+ Hero:ActFun(1096,"32",2)
+elseif(gContext==1200011)then
+ Hero:ActFun(1096,"64",2)
+elseif(gContext==1200012)then
+ Hero:ActFun(1096,"128",2)
+elseif(gContext==1200013)then
+ Hero:ActFun(1096,"256",2)
+elseif(gContext==1200014)then
+ Hero:ActFun(1096,"512",2)
+elseif(gContext==1200015)then
+ Hero:ActFun(1096,"1024",2)
+elseif(gContext==1200016)then
+ Hero:ActFun(1096,"2048",2)
+end

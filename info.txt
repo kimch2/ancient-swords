@@ -1,0 +1,20 @@
+﻿////// MySQL ////////
+user: root
+password: 123456
+
+///////// Abyss web server x1 2.7///////
+user: admin
+password: admin
+///Thông tin Game///////
+là source gốc bên 99uc, được mình tải về và edit lại 1 tí xíu để chơi
+
+////////// Hướng dẫn chạy //////////
+bước 1: vào đúng đường dẫn C:\Webgame NhatKiem\1 Link Run Web&MySQL\
+		mở 1Run MySQL, sau đó mở 2Abyssws, khi nào chán chơi thì tắt MySQL thì dùng StopMySQL
+bước 2: vào đúng đường dẫn C:\Webgame NhatKiem\2 Link Run Server\
+		mở các file tắt từ 1 đến 5, tốn khoảng hơn 600 MB ram
+bước 3: click vào Play Nhat Kiem [hoặc vào Firefox hay Chrome(IE chạy không được), vào địa chỉ 127.0.0.1,
+		1 trang web xuất hiện ra, nhập tên và password tùy ý, sau đó sẽ vào game] và play
+
+Chú ý: nếu báo lỗi thì liên hệ Y!M:chuyen_gia_pha
+Người viết: kelalung

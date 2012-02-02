@@ -1,0 +1,37 @@
+if(Hero:ActFun(1080,"mask == 0",1) == true)then
+   npcword1()
+ elseif(Hero:ActFun(1080,"step == 1",1) == true)then
+   if(Hero:ActFun(1080,"task state 0",1) == true)then
+     npcword2()
+   elseif(Hero:ActFun(1080,"task state 2",1) == true)then
+     npcword3()
+   elseif(Hero:ActFun(1080,"task state 3",1) == true)then
+     npcword4()
+   elseif(Hero:ActFun(1080,"task state 1",1) == true)then
+     npcword5()
+   end
+ elseif(Hero:ActFun(1080,"step == 2",1) == true)then
+   if(Hero:ActFun(1080,"task state 0",1) == true)then
+     npcword6()
+   elseif(Hero:ActFun(1080,"task state 2",1) == true)then
+     npcword1()
+   elseif(Hero:ActFun(1080,"task state 3",1) == true)then
+     npcword7()
+   elseif(Hero:ActFun(1080,"task state 1",1) == true)then
+     npcword8()
+   end
+ end
+
+
+
+!chufa 1080 1 "task new 1"
+!chufa 1080 1 "task accept 1"
+
+!chufa 1080 1 "task end 1"
+!chufa 1080 1 "step += 1"
+
+!chufa 1080 1 "task accept 2"
+
+!chufa 1080 1 "task end 2"
+!chufa 1080 1 "task delete 2"
+!chufa 1080 1 "mask += 0"

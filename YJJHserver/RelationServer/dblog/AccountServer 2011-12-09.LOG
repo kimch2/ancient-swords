@@ -1,0 +1,92 @@
+################################################################################
+### 关系服务器(x)
+### Start server time is 2011-12-09 19:16:29
+################################################################################
+### Current time is 2011-12-09 19:16:29
+### Server takes 0 days  00:00:00
+################################################################################
+
+
+19:16:29 Message: 
+
+
+================================================================================
+=== 关系服务器(x)
+=== Start server time is 2011-12-09 19:16:29
+================================================================================
+
+
+19:16:29 Message: ***************************************************************
+19:16:29 Message: ** 关系服务器开始启动
+19:16:29 Message: ***************************************************************
+19:16:29 Message: config.ini->SERVERKEY = "a61fce5e-443ffc04"
+19:16:29 Message: config.ini->LOGINLOOPDELAY = 10
+19:16:29 Message: config.ini->POINTLOOPDELAY = 10
+19:16:29 Message: config.ini->REBUILDLISTENDELAYSEC = 5
+19:16:29 Message: config.ini->LOGINLISTENPORT = 8846
+19:16:29 Message: config.ini->POINTLISTENPORT = 8886
+19:16:29 Message: config.ini->POINTSOCKETSNDBUF = 65000
+19:16:29 Message: config.ini->MAXBANIPS = 50
+19:16:29 Message: config.ini->BANERRORS = 100
+19:16:29 Message: config.ini->BANERRORSECS = 30
+19:16:29 Message: config.ini->BANSECS = 300
+19:16:29 Message: config.ini->ONLINETABLESIZE = 10000
+19:16:29 Message: config.ini->HEARTBEATINTERVALSECS = 300
+19:16:29 Message: config.ini->HEARTBEATKICKSECS = 1500
+19:16:29 Message: config.ini->POINTFEEINTERVALSECS = 180
+19:16:29 Message: config.ini->ONLINEHEARTBEATSECS = 600
+19:16:29 Message: config.ini->ENABLELOGINDELAY = 6
+19:16:29 WARNING: 登录延迟时间ENABLELOGINDELAY应大于计点间隔POINTFEEINTERVALSECS，否则在线表不能同步。
+19:16:29 Message: config.ini->OUTPUTONLINESECS = 60
+19:16:29 Message: config.ini->REJOINTIMEWAITSECS = 0
+19:16:29 Message: config.ini->COUNTFILESECS = 60
+19:16:29 Message: config.ini->ACCOUNT_AHEAD_DAYS = 7
+19:16:29 Message: config.ini->SERVER_BUSY_DELAY_SECS = 10
+19:16:29 Message: config.ini->SERVER_FULL_DELAY_SECS = 30
+19:16:29 Message: config.ini->KICKOUT_USER_WHEN_NO_POINT = 1
+19:16:29 Message: config.ini->ENABLE_LOGIN_NO_POINT = 1
+19:16:29 Message: config.ini->MONTH_CARD_TO_POINT_CARD = 1
+19:16:29 Message: config.ini->MAX_GM_ID = 1000
+19:16:29 Message: config.ini->STAT_SERIAL = 1
+19:16:29 Message: config.ini->DBHOSTNAME = "127.0.0.1"
+19:16:29 Message: config.ini->DBUSER = "root"
+19:16:29 Message: config.ini->DBPASSWORD = "123456"
+19:16:29 Message: config.ini->DATABASENAME = "acc_db"
+19:16:29 Message: 读取INI完毕!
+19:16:29 Message: 初始化核心完毕!
+19:16:29 Message: OnlineTable 对象创建成功!
+19:16:29 Message: 共读入[4]个游戏服务器帐号
+19:16:29 Message: PointThread 对象创建成功!
+19:16:29 Message: PointThread 线程创建完毕!
+19:16:29 Message: SetTimer 启动完毕!
+19:16:29 Message: 启动完毕，程序正常运行中-------------------------------------
+19:16:29 Message: 帐号SOCKET内部发送缓冲区尺寸为[63]K.
+19:16:29 Message: 计点线程正常启动
+19:16:32 Message: 一个新游戏服务器连接进来，服务器ID号分配为[1], IP地址为[127.0.0.1]
+19:16:35 Message: 帐号服务器开始允许玩家登录
+19:16:35 Message: 接收到[一线]游戏服务器ACCOUNT消息。帐号[phien],口令[***]。
+19:16:35 Message: 共读入[4]个游戏服务器帐号
+19:16:35 Message: 新的游戏服务器[一线]ACCOUNT帐号认可。返回服务器ID[1],游戏版本[C213]
+19:16:35 Message: 新的游戏服务器[一线]ACCOUNT登录中......
+19:16:35 Message: ......[一线]游戏服务器LOGIN登录成功
+19:16:35 Message: 接收到登录消息。新的游戏服务器[一线]LOGIN登录成功
+19:16:41 Message: 一个新游戏服务器连接进来，服务器ID号分配为[2], IP地址为[127.0.0.1]
+19:16:44 Message: 接收到[六线]游戏服务器ACCOUNT消息。帐号[phien],口令[***]。
+19:16:44 Message: 共读入[4]个游戏服务器帐号
+19:16:44 Message: 新的游戏服务器[六线]ACCOUNT帐号认可。返回服务器ID[2],游戏版本[C213]
+19:16:44 Message: 新的游戏服务器[六线]ACCOUNT登录中......
+19:16:44 Message: ......[六线]游戏服务器LOGIN登录成功
+19:16:44 Message: 接收到登录消息。新的游戏服务器[六线]LOGIN登录成功
+19:17:34 WARNING: Recv错，服务器[六线]关闭。
+19:17:38 Message: “X”键被按下
+19:17:39 Message: 关闭消息已经发出
+19:17:39 Message: 服务器开始退出------------------------------------------------
+19:17:39 Message: 计点线程正常退出
+19:17:39 Message: 在线表析购时剩余[0]个元素
+19:17:39 Message: 在线表清空后剩余[0]个元素
+19:17:39 Message: ***************************************************************
+19:17:39 Message: **  服务器正常关闭
+19:17:39 Message: ***************************************************************
+
+
+

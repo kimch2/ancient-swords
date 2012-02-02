@@ -1,0 +1,81 @@
+################################################################################
+### 御剑江湖账号服务器(x)
+### Start server time is 2011-12-09 19:16:25
+################################################################################
+### Current time is 2011-12-09 19:16:25
+### Server takes 0 days  00:00:00
+################################################################################
+
+
+19:16:25 server: 
+
+
+================================================================================
+=== 御剑江湖账号服务器(x)
+=== Start server time is 2011-12-09 19:16:25
+================================================================================
+
+
+19:16:25 server: Account.ini -> SERVERNAME = "一线"
+19:16:25 server: Account.ini -> LOGINNAME = "phien"
+19:16:25 server: Account.ini -> PASSWORD = "nhatrang"
+19:16:25 server: Account.ini -> SERVERURL = "127.0.0.1"
+19:16:25 server: Account.ini -> SERVERNAME = "二线"
+19:16:25 server: Account.ini -> LOGINNAME = "phien"
+19:16:25 server: Account.ini -> PASSWORD = "nhatrang"
+19:16:25 server: Account.ini -> SERVERURL = "127.0.0.1"
+19:16:25 server: Account.ini -> SERVERNAME = "三线"
+19:16:25 server: Account.ini -> LOGINNAME = "phien"
+19:16:25 server: Account.ini -> PASSWORD = "nhatrang"
+19:16:25 server: Account.ini -> SERVERURL = "127.0.0.1"
+19:16:25 server: Account.ini -> SERVERNAME = "六线"
+19:16:25 server: Account.ini -> LOGINNAME = "phien"
+19:16:25 server: Account.ini -> PASSWORD = "nhatrang"
+19:16:25 server: Account.ini -> SERVERURL = "127.0.0.1"
+19:16:25 server: Account.ini -> SERVERNAME = ""
+19:16:25 server: Account.ini -> LOGINNAME = ""
+19:16:25 server: Account.ini -> PASSWORD = ""
+19:16:25 server: Account.ini -> SERVERURL = ""
+19:16:35 server: Account.ini -> SERVERNAME = "一线"
+19:16:35 server: Account.ini -> LOGINNAME = "phien"
+19:16:35 server: Account.ini -> PASSWORD = "nhatrang"
+19:16:35 server: Account.ini -> SERVERURL = "127.0.0.1"
+19:16:35 server: Account.ini -> SERVERNAME = "二线"
+19:16:35 server: Account.ini -> LOGINNAME = "phien"
+19:16:35 server: Account.ini -> PASSWORD = "nhatrang"
+19:16:35 server: Account.ini -> SERVERURL = "127.0.0.1"
+19:16:35 server: Account.ini -> SERVERNAME = "三线"
+19:16:35 server: Account.ini -> LOGINNAME = "phien"
+19:16:35 server: Account.ini -> PASSWORD = "nhatrang"
+19:16:35 server: Account.ini -> SERVERURL = "127.0.0.1"
+19:16:35 server: Account.ini -> SERVERNAME = "六线"
+19:16:35 server: Account.ini -> LOGINNAME = "phien"
+19:16:35 server: Account.ini -> PASSWORD = "nhatrang"
+19:16:35 server: Account.ini -> SERVERURL = "127.0.0.1"
+19:16:35 server: Account.ini -> SERVERNAME = ""
+19:16:35 server: Account.ini -> LOGINNAME = ""
+19:16:35 server: Account.ini -> PASSWORD = ""
+19:16:35 server: Account.ini -> SERVERURL = ""
+19:16:35 server: 第1号游戏服务器“一线”已登录
+19:16:44 server: Account.ini -> SERVERNAME = "一线"
+19:16:44 server: Account.ini -> LOGINNAME = "phien"
+19:16:44 server: Account.ini -> PASSWORD = "nhatrang"
+19:16:44 server: Account.ini -> SERVERURL = "127.0.0.1"
+19:16:44 server: Account.ini -> SERVERNAME = "二线"
+19:16:44 server: Account.ini -> LOGINNAME = "phien"
+19:16:44 server: Account.ini -> PASSWORD = "nhatrang"
+19:16:44 server: Account.ini -> SERVERURL = "127.0.0.1"
+19:16:44 server: Account.ini -> SERVERNAME = "三线"
+19:16:44 server: Account.ini -> LOGINNAME = "phien"
+19:16:44 server: Account.ini -> PASSWORD = "nhatrang"
+19:16:44 server: Account.ini -> SERVERURL = "127.0.0.1"
+19:16:44 server: Account.ini -> SERVERNAME = "六线"
+19:16:44 server: Account.ini -> LOGINNAME = "phien"
+19:16:44 server: Account.ini -> PASSWORD = "nhatrang"
+19:16:44 server: Account.ini -> SERVERURL = "127.0.0.1"
+19:16:44 server: Account.ini -> SERVERNAME = ""
+19:16:44 server: Account.ini -> LOGINNAME = ""
+19:16:44 server: Account.ini -> PASSWORD = ""
+19:16:44 server: Account.ini -> SERVERURL = ""
+19:16:44 server: 第2号游戏服务器“六线”已登录
+19:17:34 server: 掉线，服务器[六线]关闭。
