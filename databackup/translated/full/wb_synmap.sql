@@ -1,0 +1,14 @@
+INSERT INTO `wb_synmap` VALUES (9000, 'Party', 1048, 0002, 0009, 0, 0, 6);
+INSERT INTO `wb_synmap` VALUES (9001, 'Party', 1048, 0002, 0004, 0, 0, 6);
+INSERT INTO `wb_synmap` VALUES (9002, 'Party', 1048, 0002, 0014, 0, 0, 6);
+INSERT INTO `wb_synmap` VALUES (9003, 'Party', 1048, 0002, 0006, 0, 0, 6);
+INSERT INTO `wb_synmap` VALUES (9004, 'Party', 1048, 0002, 0002, 0, 0, 6);
+INSERT INTO `wb_synmap` VALUES (9005, 'Party', 1048, 0002, 0011, 0, 0, 6);
+INSERT INTO `wb_synmap` VALUES (9006, 'Party', 1048, 0002, 0010, 0, 0, 6);
+INSERT INTO `wb_synmap` VALUES (9007, 'Party', 1048, 0002, 0008, 0, 0, 6);
+INSERT INTO `wb_synmap` VALUES (9008, 'Party', 1048, 0002, 0005, 0, 0, 6);
+INSERT INTO `wb_synmap` VALUES (9009, 'Party', 1048, 0002, 0013, 0, 0, 6);
+INSERT INTO `wb_synmap` VALUES (9010, 'Party', 1048, 0002, 0001, 0, 0, 6);
+INSERT INTO `wb_synmap` VALUES (9011, 'Party', 1048, 0002, 0003, 0, 0, 6);
+INSERT INTO `wb_synmap` VALUES (9012, 'Party', 1048, 0002, 0007, 0, 0, 6);
+INSERT INTO `wb_synmap` VALUES (9013, 'Party', 1048, 0002, 0012, 0, 0, 6);

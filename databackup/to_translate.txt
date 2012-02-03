@@ -1,0 +1,13 @@
+sk_itemtype
+wb_eudemon
+wb_eudemontype + , 22,24
+wb_gift_templet_manager ++
+wb_instancetype +, 3,4,5,7,8,12,18,19,20,23,24
+wb_item
+wb_itemtype
+wb_magictype
+wb_map
+wb_monstertype
+wb_npc
+wb_synmap ++
+

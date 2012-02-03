@@ -1,0 +1,7 @@
+r1.	Upload project
+r2.	1.Add databackup folder with original(china) and translated DB
+	2.Left translate "wangpudb" DB
+	3.Translated :
+	3a. Full: wb_synmap, wb_gift_templet_manager
+	3b. Not Finished: wb_eudemontype (22,24), wb_instancetype (3,4,5,7,8,12,18,19,20,23,24)
+	4.Changes.txt
