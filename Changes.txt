@@ -7,3 +7,5 @@ r2.	1.Add databackup folder with original(china) and translated DB
 	4.Changes.txt
 r3.	1.Translated :
 	1a. Full: wb_item, wb_map, wb_npc
+r4.	1.Translated :
+	1a. Full: wb_itemtype, wb_magictype, sk_itemtype
